@@ -1,0 +1,4 @@
+com\desafioqa\testrunners\ShoppingCartTest.class
+com\desafioqa\hooks\ShoppingCartHooks.class
+com\desafioqa\stepdefinitions\ShoppingCartSteps.class
+com\desafioqa\AppTest.class

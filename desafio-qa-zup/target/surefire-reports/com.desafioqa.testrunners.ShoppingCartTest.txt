@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.desafioqa.testrunners.ShoppingCartTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 120.669 s - in com.desafioqa.testrunners.ShoppingCartTest
